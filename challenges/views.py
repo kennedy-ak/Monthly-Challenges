@@ -4,7 +4,7 @@ from django.urls import reverse
 from django.template.loader import render_to_string
 # Create your views here.
 tasks = {
-    
+    "me":"this will work",
     "january": "Avoid Social Media While Working",
     "february": "Start a Blog (and Post Once a Week)",
     "march": "Just sleep",
